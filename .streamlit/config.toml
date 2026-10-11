@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#2F5F8F"
+backgroundColor = "#EEEFEC"
+secondaryBackgroundColor = "#E1E3DE"
+textColor = "#22303C"
+font = "Bahnschrift, Segoe UI, sans-serif"
+headingFont = "Bahnschrift SemiCondensed, Bahnschrift, Arial Narrow, sans-serif"
+baseRadius = "0.25rem"
+borderColor = "#C9CCC6"
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#E4E6E1"
+
+[browser]
+gatherUsageStats = false

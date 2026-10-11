@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.remember/
+.claude/
+
+# Não usados pelo painel (ficam só no computador)
+14_cleanDatabase.xlsx
+dados_prontos_ml_treino.csv
+dados_prontos_ml_teste.csv
+
+# Nunca enviar credenciais
+.streamlit/secrets.toml
